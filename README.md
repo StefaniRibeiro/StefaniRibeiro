@@ -1,4 +1,4 @@
-## Oiee, eu sou a Stefani Ribeiro
+## Oiee, eu sou a Stefani Ribeiro 💜
 
 
 - 💻 Trabalho atualmente com Desenvolvimento Full-Stack
