@@ -20,8 +20,6 @@
   </tr>
 </table>
 
-<br>
-<br/>
 
 ### Linguagens e Ferramentas:
 
