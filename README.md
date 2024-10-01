@@ -6,4 +6,6 @@
 - ✈  Trabalho com softwares para o mercado de turismo
 - 💙  ReactJS e .NET
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefaniRibeiro)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefaniRibeiro)](https://github.com/anuraghazra/github-readme-stats)
