@@ -1,11 +1,8 @@
-## Oiee, eu sou a Stefani Ribeiro 💜
+## Stefani Ribeiro — Front-End Developer
 
 
-- 💻 Desenvolvedora Full-Stack, especialista em Front-End
-- 👩🏻 Tenho 21 anos
-- 💙  ReactJS e .NET
-- 😃 Tenho dois anos e meio de experiência na área de desenvolvimento
-- 💕 Minha paixão por programação foi amor ao primeiro commit s2
+- 💻 Desenvolvedora Full-Stack com foco em Front-End
+- 😃 Mais de 2 anos de experiência construindo interfaces web modernas utilizando React e .NET
 
 
 
