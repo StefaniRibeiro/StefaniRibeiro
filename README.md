@@ -1,9 +1,11 @@
 ## Oiee, eu sou a Stefani Ribeiro 💜
 
 
-- 💻 Sou Desenvolvedora Full-Stack, especialista em Front-End
+- 💻 Desenvolvedora Full-Stack, especialista em Front-End
 - 👩🏻 Tenho 21 anos
 - 💙  ReactJS e .NET
+- 😃 Tenho dois anos e meio de experiência na área de desenvolvimento
+- 💕 Minha paixão por programação foi amor ao primeiro commit s2
 
 
 
